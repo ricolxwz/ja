@@ -7,6 +7,10 @@ export const sidebar = {
           text: "简介",
           link: "/basic/intro",
         },
+        {
+          text: "语法",
+          link: "/basic/syntax",
+        },
       ],
     },
   ],
