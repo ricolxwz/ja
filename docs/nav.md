@@ -12,4 +12,5 @@ footer: true
 
 # 瞬移
 
-- ✅ Basic
+- ✅ 基础
+    - ✅ [简介](/basic/intro)
