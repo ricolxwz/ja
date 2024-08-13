@@ -95,4 +95,4 @@ footer: true
     Intellij IDEA中可以在File and Code Templates中设置.
     :::
 4. 所有的枚举类型字段必须由注释, 说明每个数据项的用途
-5. 
+5. 修改代码的同时, 注释也要进行相应的修改

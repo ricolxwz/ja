@@ -15,3 +15,4 @@ footer: true
 - ✅ 基础
     - ✅ [简介](/basic/intro)
     - ✅ [语法](/basic/syntax)
+    - ✅ [数据类型](/basic/type)

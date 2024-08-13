@@ -11,6 +11,10 @@ export const sidebar = {
           text: "语法",
           link: "/basic/syntax",
         },
+        {
+          text: "数据类型",
+          link: "/basic/type",
+        },
       ],
     },
   ],
